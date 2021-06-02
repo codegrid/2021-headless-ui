@@ -1,4 +1,4 @@
 [build]
-  base = "02.state1/"
+  base = "02.state2/"
   publish = "build/"
   command = "npm run build"
