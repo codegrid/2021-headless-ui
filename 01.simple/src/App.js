@@ -1,8 +1,19 @@
+import { Menu } from '@headlessui/react';
+
 function App() {
   return (
     <div className="px-8 py-6">
-      <h1 className="text-xl pb-2 font-bold">Headless UI example</h1>
-      <p>The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. </p>
+      <Menu>
+        <Menu.Button className="p-4 border border-black">
+          Toggle Menu!
+        </Menu.Button>
+        <Menu.Items>
+          <Menu.Item><a className="block border border-black p-4" href="http://example.com">Menu1</a></Menu.Item>
+          <Menu.Item><a className="block border border-black p-4" href="http://example.com">Menu2</a></Menu.Item>
+          <Menu.Item><a className="block border border-black p-4" href="http://example.com">Menu3</a></Menu.Item>
+          <Menu.Item><a className="block border border-black p-4" href="http://example.com">Menu4</a></Menu.Item>
+        </Menu.Items>
+      </Menu>
     </div>
   );
 }
