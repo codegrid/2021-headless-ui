@@ -1,4 +1,4 @@
 [build]
-  base = "03.transition/"
+  base = "04.with-transition/"
   publish = "build/"
   command = "npm run build"
