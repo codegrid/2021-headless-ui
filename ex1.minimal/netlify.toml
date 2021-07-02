@@ -1,0 +1,4 @@
+[build]
+  base = "ex1.minimal/"
+  publish = "build/"
+  command = "npm run build"
