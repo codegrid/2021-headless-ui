@@ -14,10 +14,10 @@ function App() {
                 Toggle Menu!
               </Menu.Button>
               <Menu.Items>
-                <Menu.Item><a className="block border border-black p-4 bg-white" href="http://example.com">Menu1</a></Menu.Item>
-                <Menu.Item><a className="block border border-black p-4 bg-white" href="http://example.com">Menu2</a></Menu.Item>
-                <Menu.Item><a className="block border border-black p-4 bg-white" href="http://example.com">Menu3</a></Menu.Item>
-                <Menu.Item><a className="block border border-black p-4 bg-white" href="http://example.com">Menu4</a></Menu.Item>
+                <Menu.Item><a className="block border border-black p-4 bg-white" href="https://example.com">Menu1</a></Menu.Item>
+                <Menu.Item><a className="block border border-black p-4 bg-white" href="https://example.com">Menu2</a></Menu.Item>
+                <Menu.Item><a className="block border border-black p-4 bg-white" href="https://example.com">Menu3</a></Menu.Item>
+                <Menu.Item><a className="block border border-black p-4 bg-white" href="https://example.com">Menu4</a></Menu.Item>
               </Menu.Items>
             </div>
           </>
