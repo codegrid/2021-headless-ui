@@ -21,7 +21,7 @@ function App() {
                         block border border-black p-4
                         ${active ? "bg-blue-300" : "bg-white"}
                       `}
-                      href="http://example.com"
+                      href="https://example.com"
                     >
                       Menu1
                     </a>
@@ -34,7 +34,7 @@ function App() {
                         block border border-black p-4
                         ${active ? "bg-blue-300" : "bg-white"}
                       `}
-                      href="http://example.com"
+                      href="https://example.com"
                     >
                       Menu2
                     </a>
@@ -47,7 +47,7 @@ function App() {
                         block border border-black p-4
                         ${active ? "bg-blue-300" : "bg-white"}
                       `}
-                      href="http://example.com"
+                      href="https://example.com"
                     >
                       Menu3
                     </a>
@@ -60,7 +60,7 @@ function App() {
                         block border border-black p-4
                         ${active ? "bg-blue-300" : "bg-white"}
                       `}
-                      href="http://example.com"
+                      href="https://example.com"
                     >
                       Menu4
                     </a>
