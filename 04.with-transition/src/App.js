@@ -17,10 +17,10 @@ function Overlay({ open }) {
 
 function App() {
   const links = [
-    { id: 1, href: "http://example.com", text: "Menu1" },
-    { id: 2, href: "http://example.com", text: "Menu2" },
-    { id: 3, href: "http://example.com", text: "Menu3" },
-    { id: 4, href: "http://example.com", text: "Menu4" },
+    { id: 1, href: "https://example.com", text: "Menu1" },
+    { id: 2, href: "https://example.com", text: "Menu2" },
+    { id: 3, href: "https://example.com", text: "Menu3" },
+    { id: 4, href: "https://example.com", text: "Menu4" },
   ];
   return (
     <div className="px-8 py-6">
