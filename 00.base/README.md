@@ -1,4 +1,4 @@
-# CodeGrid Headless UI Demo: 00.base
+# 第1回 Create React App + Tailwind CSS のセットアップまで
 
 - https://ja.reactjs.org/docs/create-a-new-react-app.html
 - https://tailwindcss.com/docs/guides/create-react-app
