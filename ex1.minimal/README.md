@@ -1,4 +1,4 @@
-# 第3回 ステップ2デモ: Dropdown Menu + Transition
+# 第1回 最小限のDropdown Menu構成
 
 - https://ja.reactjs.org/docs/create-a-new-react-app.html
 - https://tailwindcss.com/docs/guides/create-react-app
