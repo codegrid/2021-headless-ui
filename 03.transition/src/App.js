@@ -11,13 +11,13 @@ function App() {
       >Toggle</button>
       <Transition
         show={open}
+        className="border border-black p-8 text-9xl"
         enter="transition-all ease-in-out duration-500"
         enterFrom="transform -translate-x-12 opacity-0"
         enterTo="transform translate-x-0 opacity-100"
         leave="transition-all ease-in-out duration-500"
         leaveFrom="transform translate-x-0 opacity-100"
         leaveTo="transform -translate-x-12 opacity-0"
-        className="border border-black p-8 text-9xl"
       >
         👌
       </Transition>
