@@ -1,0 +1,4 @@
+[build]
+  base = "ex3.just-toggle/"
+  command = "npm run build"
+  publish = "build/"
