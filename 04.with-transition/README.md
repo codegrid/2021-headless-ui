@@ -1,4 +1,4 @@
-# 第3回 ステップ2デモ: Dropdown Menu + Transition
+# 最終回 ステップ6デモ: Dropdown Menu + Transition
 
 - https://ja.reactjs.org/docs/create-a-new-react-app.html
 - https://tailwindcss.com/docs/guides/create-react-app
